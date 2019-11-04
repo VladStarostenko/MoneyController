@@ -1,6 +1,12 @@
 # MoneyController
 
-> A Vue.js project
+Project był wykonany na studiach w ramach przedmiotu "Project Indywidualny".
+MoneyController - to jest aplikacja webowa dla kontroli finansów. 
+Dla wykonania zostały wykorzystane następujące technologie: 
+ - Vue.js
+ - Vuex
+ - Vuetify
+ - Firebase
 
 ## Build Setup
 
