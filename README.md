@@ -1,6 +1,6 @@
 # MoneyController
 
-Project był wykonany na studiach w ramach przedmiotu "Project Indywidualny".
+Projkt był wykonany na studiach w ramach przedmiotu "Projekt Indywidualny".
 MoneyController - to jest aplikacja webowa dla kontroli finansów. 
 Dla wykonania zostały wykorzystane następujące technologie: 
  - Vue.js
